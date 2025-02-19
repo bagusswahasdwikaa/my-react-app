@@ -164,3 +164,27 @@ mengupdate state dan menampilkan data yang dimasukkan.
     ![alt text](<img/run-example.png>)
 
 ### Tugas
+1. Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state
+untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak.
+
+    *Kode Program*
+    ![alt text](<img/nomor1.png>)
+
+    *Hasil Run*
+    ![alt text](<img/jawaban1.png>)
+
+2. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input.
+
+    *Kode Program*
+    ![alt text](<img/nomor2.png>)
+
+    *Hasil Run*
+    ![alt text](<img/jawaban2.png>)
+   
+3. Implementasikan fitur untuk menghapus tugas dari daftar.
+
+    *Kode Program*
+    ![alt text](<img/nomor3.png>)
+
+    *Hasil Run*
+    ![alt text](<img/jawaban3.png>)
