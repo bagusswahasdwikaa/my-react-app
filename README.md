@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# **Laporan Praktikum**
+
+|  | Pemrograman Berbasis Framework 2025 |
+|--|--|
+| NIM |  2241720223|
+| Nama |  Sukma Bagus Wahasdwika |
+| Kelas | TI - 3D | 
+
+## **Langkah-langkah Praktikum**
+### Praktikum 1 : Persiapan Lingkungan
