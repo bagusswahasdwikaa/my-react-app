@@ -80,3 +80,87 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## **Langkah-langkah Praktikum**
 ### Praktikum 1 : Persiapan Lingkungan
+1. Pastikan Node.js dan npm sudah terinstal di komputer Anda. Anda dapat memeriksanya dengan
+menjalankan perintah berikut di terminal atau command prompt:
+
+    ![alt text](img/node_npm-v.png)
+
+2.  Buat direktori baru untuk proyek React Anda:
+
+    ![alt text](img/mkdir.png)
+    
+3.  Inisialisasi proyek React dengan menjalankan perintah berikut:
+
+    ![alt text](<img/npx create.png>)
+    
+4.  Jalankan aplikasi React dengan perintah:
+
+    ![alt text](<img/npmstart.png>)
+
+    ![alt text](img/localhost3000.png)
+
+### Praktikum 2 : Membuat Komponen React
+1. Buka file src/App.js di text editor Anda.
+2. Ganti kode di dalamnya dengan kode berikut untuk membuat komponen sederhana:
+
+    ![alt text](<img/komponen1.png>)
+
+3. Simpan file dan lihat perubahan di browser. Anda akan melihat tampilan sederhana dengan
+header, konten utama, dan footer.
+
+    ![alt text](<img/run-app1.png>)
+
+### Praktikum 3 : Menggunakan JSX untuk Membuat Komponen Dinamis
+1.  Buat file baru di direktori src dengan nama Counter.js.
+2.  Tambahkan kode berikut untuk membuat komponen Counter yang dinamis:
+
+    ![alt text](<img/addkomponencount.png>)
+    
+3.  Buka file src/App.js dan impor komponen Counter:
+
+    ![alt text](<img/import.png>)
+
+4.  Tambahkan komponen Counter ke dalam komponen App:
+
+    ![alt text](<img/addcounter.png>)
+
+5.  Simpan file dan lihat perubahan di browser. Anda akan melihat tombol "Tambah" yang dapat
+meningkatkan hitungan saat diklik.
+
+    ![alt text](<img/run-counter.png>)
+
+### Praktikum 4 : Menggunakan Props untuk Mengirim Data
+1. Buat file baru di direktori src dengan nama Greeting.js.
+2. Tambahkan kode berikut untuk membuat komponen Greeting yang menerima props:
+
+    ![alt text](<img/addkomponengreeting.png>)
+
+3. Buka file src/App.js dan impor komponen Greeting:
+
+    ![alt text](<img/import-greeting.png>)
+
+4. Tambahkan komponen Greeting ke dalam komponen App dan kirim props name:
+
+    ![alt text](<img/addgreeting.png>)
+
+5. Simpan file dan lihat perubahan di browser. Anda akan melihat pesan "Halo, John!" yang
+ditampilkan oleh komponen Greeting.
+
+    ![alt text](<img/run-greeting.png>)
+
+### Praktikum 5 : Menggunakan State untuk Mengelola Data
+1. Buka file src/App.js dan tambahkan kode berikut untuk membuat komponen yang mengelola
+state:
+
+    ![alt text](<img/addkomponenexample.png>)
+
+2. Tambahkan komponen Example ke dalam komponen App:
+
+    ![alt text](<img/addexample.png>)
+
+3. Simpan file dan lihat perubahan di browser. Anda akan melihat form input yang dapat
+mengupdate state dan menampilkan data yang dimasukkan.
+
+    ![alt text](<img/run-example.png>)
+
+### Tugas
